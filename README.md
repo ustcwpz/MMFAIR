@@ -1,2 +1,2 @@
 # MMFAIR
-Code for CIKM2022 Fairness-Aware Algorithms for Revenue Maximization in Social Advertising
+The code for CIKM2022 Fairness-Aware Algorithms for Revenue Maximization in Social Advertising will be released soon...
